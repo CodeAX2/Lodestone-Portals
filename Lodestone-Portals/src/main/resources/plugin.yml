@@ -1,0 +1,9 @@
+main: dev.jd.lodestoneportals.App
+name: Lodestone-Portals
+version: 0.1
+api-version: 1.18
+depend: [NBTAPI]
+commands:
+  ironcarrot:
+    description: Gives an iron carrot.
+    usage: "Usage: /<command>"  

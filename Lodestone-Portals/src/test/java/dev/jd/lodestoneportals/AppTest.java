@@ -1,0 +1,18 @@
+package dev.jd.lodestoneportals;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.Test;
+
+/**
+ * Unit test for simple App.
+ */
+class AppTest {
+    /**
+     * Rigorous Test.
+     */
+    @Test
+    public void testApp() {
+        assertEquals(1, 1);
+    }
+}

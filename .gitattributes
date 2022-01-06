@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# When shell scripts end in CRLF, bash gives a cryptic error message
+*.sh text eol=lf
