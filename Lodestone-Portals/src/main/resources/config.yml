@@ -1,0 +1,24 @@
+# Configuration options for Lodestone Portals
+# The material that portals will be made from
+portalMaterial: 'LODESTONE'
+# The material used to configure portals
+portalConfigMaterial: 'NETHER_STAR'
+# The "low cost" material to charge portals
+lowChargeMaterial: 'AMETHYST_SHARD'
+# The "high cost" material to charge portals
+highChargeMaterial: 'AMETHYST_BLOCK'
+# The charge value of the "low cost" material
+# If set to 0, the high cost material will not be used
+lowChargeValue: 1
+# The charge value of the "high cost" material
+highChargeValue: 4
+# The base charge cost to teleport once
+baseCostPerUse: 1
+# The cost per unit block of distance travelled
+costPerBlock: 0.0005
+# The cost to travel to a different dimension
+costForDimensional: 15
+# The maximum amount of fuel a portal can have
+maxFuel: 1000
+# Allow portals that travel between dimensions
+allowInterdimensional: false
